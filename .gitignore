@@ -1,0 +1,6 @@
+Fetch.py
+logs/*.log
+data/*.xlsx
+__pycache__
+data/files.db
+conn/connectionlive.key
